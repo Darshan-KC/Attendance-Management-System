@@ -38,3 +38,10 @@ php artisan db:seed SuperAdminSeeder
 2. [Sagar Timilsina](https://github.com/sagartimilsina)
 3. [Aashish Paudel](https://github.com/aashishpaudel1122)
 4. [Saroj Chhetri](https://github.com/sarojchhetri77)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
